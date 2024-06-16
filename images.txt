@@ -4,3 +4,4 @@ mysql
 python
 bitnami/zookeeper:3.9.2
 postgres
+synctvorg/synctv
