@@ -5,3 +5,4 @@ python
 bitnami/zookeeper:3.9.2
 postgres
 synctvorg/synctv
+ghcr.io/anduin2017/how-to-cook
