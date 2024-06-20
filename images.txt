@@ -7,3 +7,4 @@ postgres
 synctvorg/synctv
 ghcr.io/anduin2017/how-to-cook
 halohub/halo:2.16.3
+xhofe/alist:v3.35.0
