@@ -1,11 +1,12 @@
-nginx
-xhofe/alist:latest
-mysql
-python
-bitnami/zookeeper:3.9.2
-postgres
-synctvorg/synctv
-ghcr.io/anduin2017/how-to-cook
-halohub/halo:2.16.3
-xhofe/alist:v3.35.0
-halohub/halo-pro:2.16.4
+# nginx
+# xhofe/alist:latest
+# mysql
+# python
+# bitnami/zookeeper:3.9.2
+# postgres
+# synctvorg/synctv
+# ghcr.io/anduin2017/how-to-cook
+# halohub/halo:2.16.3
+# xhofe/alist:v3.35.0
+# halohub/halo-pro:2.16.4
+mysql:8.2.0
