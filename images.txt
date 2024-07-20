@@ -13,4 +13,5 @@
 # postgres:16.3-alpine
 # 1panel/openresty:1.21.4.3-3-3-focal
 # 1panel/openresty:1.21.4.3-3-2-focal
-frooodle/s-pdf:latest
+# frooodle/s-pdf:latest
+apache/doris:2.0.0_alpha-be-x86_64
