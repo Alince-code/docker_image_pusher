@@ -18,4 +18,7 @@
 # bitnami/minio:latest
 # mysql:8.4.2
 # postgres:16.4-alpine
-haroldli/xiaoya-tvbox:latest
+--platform=linux/amd64 haroldli/xiaoya-tvbox:latest
+--platform=linux/arm64 haroldli/xiaoya-tvbox:latest
+--platform=linux/amd64 haroldli/xiaoya-tvbox:hostmode
+--platform=linux/arm64 haroldli/xiaoya-tvbox:hostmode
