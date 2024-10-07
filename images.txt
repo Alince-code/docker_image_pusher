@@ -24,4 +24,5 @@
 # --platform=linux/amd64 haroldli/xiaoya-tvbox:hostmode
 # --platform=linux/arm64 haroldli/xiaoya-tvbox:hostmode
 # hhyo/archer:latest
-phpmyadmin:5.2.1
+# phpmyadmin:5.2.1
+homeassistant/home-assistant:latest
