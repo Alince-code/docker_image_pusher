@@ -25,4 +25,5 @@
 # --platform=linux/arm64 haroldli/xiaoya-tvbox:hostmode
 # hhyo/archer:latest
 # phpmyadmin:5.2.1
-homeassistant/home-assistant:latest
+# homeassistant/home-assistant:latest
+linkease/istorepanel:latest
