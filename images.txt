@@ -27,4 +27,5 @@
 # phpmyadmin:5.2.1
 # homeassistant/home-assistant:latest
 # linkease/istorepanel:latest
-whyour/qinglong:2.17.11
+# whyour/qinglong:2.17.11
+linkease/webvirtcloud:latest
