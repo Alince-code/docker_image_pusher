@@ -30,4 +30,5 @@
 # whyour/qinglong:2.17.11
 # linkease/webvirtcloud:latest
 # jumpserver/jms_all:v4.2.0
-minio/minio:RELEASE.2024-09-13T20-26-02Z
+# minio/minio:RELEASE.2024-09-13T20-26-02Z
+bitnami/minio:latest
