@@ -31,4 +31,6 @@
 # linkease/webvirtcloud:latest
 # jumpserver/jms_all:v4.2.0
 # minio/minio:RELEASE.2024-09-13T20-26-02Z
-bitnami/minio:latest
+# bitnami/minio:latest
+docker.elastic.co/elasticsearch/elasticsearch:7.4.0
+docker.elastic.co/kibana/kibana:7.4.0
