@@ -34,4 +34,4 @@
 # bitnami/minio:latest
 # docker.elastic.co/elasticsearch/elasticsearch:8.10.2
 #docker.elastic.co/kibana/kibana:8.10.2
-homeassistant/home-assistant:2024.12.4
+homeassistant/home-assistant:2025.3.3
