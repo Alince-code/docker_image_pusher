@@ -37,5 +37,6 @@
 # homeassistant/home-assistant:2025.3.4
 # python:3.11-slim
 # ghcr.io/eugeny/tabby-web:latest
-msmkls/daoliyu-backend:0.2.1
-msmkls/daoliyu-frontend:0.2.1
+# msmkls/daoliyu-backend:0.2.1
+# msmkls/daoliyu-frontend:0.2.1
+tanner23456/playlistdl:v2
