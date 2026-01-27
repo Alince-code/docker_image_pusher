@@ -40,4 +40,6 @@
 # msmkls/daoliyu-backend:0.2.1
 # msmkls/daoliyu-frontend:0.2.1
 # tanner23456/playlistdl:v2
-jupyter/scipy-notebook:latest
+# jupyter/scipy-notebook:latest
+msmkls/daoliyu-backend:0.2.2
+msmkls/daoliyu-frontend:0.2.2
