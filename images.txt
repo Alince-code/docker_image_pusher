@@ -41,5 +41,6 @@
 # msmkls/daoliyu-frontend:0.2.1
 # tanner23456/playlistdl:v2
 # jupyter/scipy-notebook:latest
-msmkls/daoliyu-music:latest
-mayswind/ezbookkeeping:latest
+# msmkls/daoliyu-music:latest
+# mayswind/ezbookkeeping:latest
+mysql:8.4.8
