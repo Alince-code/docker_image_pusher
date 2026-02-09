@@ -43,4 +43,6 @@
 # jupyter/scipy-notebook:latest
 # msmkls/daoliyu-music:latest
 # mayswind/ezbookkeeping:latest
-mysql:8.4.8
+# mysql:8.4.8
+python:3.11-slim
+node:20-slim
