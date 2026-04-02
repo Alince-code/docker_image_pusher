@@ -47,4 +47,5 @@
 # python:3.11-slim
 # node:20-slim
 # mzz2017/v2raya:latest
-node:18-alpine
+# node:18-alpine
+minlag/mermaid-cli:latest
