@@ -48,4 +48,5 @@
 # node:20-slim
 # mzz2017/v2raya:latest
 # node:18-alpine
-minlag/mermaid-cli:latest
+# minlag/mermaid-cli:latest
+linuxserver/firefox:latest
