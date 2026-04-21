@@ -50,4 +50,5 @@
 # node:18-alpine
 # minlag/mermaid-cli:latest
 # linuxserver/firefox:latest
-jlesage/firefox:latest
+# jlesage/firefox:latest
+coolsnowwolf/qwrt:amd64-latest
