@@ -51,4 +51,6 @@
 # minlag/mermaid-cli:latest
 # linuxserver/firefox:latest
 # jlesage/firefox:latest
-coolsnowwolf/qwrt:amd64-latest
+# coolsnowwolf/qwrt:amd64-latest
+redis:8.6.3
+docker.cnb.cool/mliev/open/dwz-server:v2.22.3
