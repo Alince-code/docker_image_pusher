@@ -63,4 +63,5 @@
 # apache/kvrocks:latest
 # nickfedor/watchtower
 # msmkls/daoliyu-music:latest
-apache/kvrocks:latest
+# apache/kvrocks:latest
+python:3.12-slim
