@@ -61,7 +61,7 @@
 # mayswind/ezbookkeeping:latest
 # ghcr.io/szemeng76/lunatv:latest
 # apache/kvrocks:latest
-# nickfedor/watchtower
+# nickfedor/watchtower 
 # msmkls/daoliyu-music:latest
 # apache/kvrocks:latest
 # python:3.12-slim
