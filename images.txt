@@ -64,4 +64,5 @@
 # nickfedor/watchtower
 # msmkls/daoliyu-music:latest
 # apache/kvrocks:latest
-python:3.12-slim
+# python:3.12-slim
+makedie/proxmox_ve:pxvirt-8.4.10-amd64
